@@ -1,6 +1,6 @@
 # CellularAutomataModels
  
-Stochastic CA models for generating synthetic landscapes
+Stochastic models for generating synthetic landscapes
 
 Sample outputs:
 
