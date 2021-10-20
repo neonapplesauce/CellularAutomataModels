@@ -16,7 +16,7 @@ clc
 format long
 
 %Grid Size
-nx=100;
+nx=500;
 
 iterations=1000;
 

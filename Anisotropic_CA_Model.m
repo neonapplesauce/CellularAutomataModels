@@ -4,8 +4,7 @@
 % however expands the model to allow for an anisotropic kernel (one where
 % the weighting of the positive feedback is greater in one direction).
 % Similar to the model proposed by Acharya et al., this model was originally
-% developed to simulate the Everglades ridge slough landscape, although is
-% meant to be highly general and may have other applications.
+% developed to simulate the Everglades ridge slough landscape.
 %
 % Importantly, this model can also simulate two degradation mechanisms: one 
 % with subtractive degradation (patches are randomly destroyed, such as may 
@@ -50,7 +49,7 @@ iterations = 10000;
 ft=.5;
 
 %Elongation (1=isotropic)
-elongation=1.8;
+elongation=1.5;
 
 %Cumulative P accounted for by the distance weighting neighborhood
 neighb_fraction=.9999;
